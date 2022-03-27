@@ -10,9 +10,7 @@ import Home from './pages/Home';
 import Reports from './pages/Reports';
 import Products from './pages/Products';
 
-
 function App() {
-  
   return (
     <>
       <Router>
@@ -26,6 +24,5 @@ function App() {
     </>
   );
 }
-
 
 export default App;
